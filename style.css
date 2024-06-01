@@ -1,0 +1,249 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.Search input{
+    border: none;
+    background-color: rgb(255, 226, 216);
+
+}
+.homefull{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+    padding-bottom: 20px;
+    height: 65px;
+    position: relative;
+   
+}
+.logo{
+    position: absolute;
+    width: 100px;
+    height: 90px;
+    left: -90px;
+    top: 0px;
+    
+}
+.homefullbody{
+    display: flex;
+    margin-left:  -400px;
+    
+    
+}
+.homefullbody li {
+    margin-left: 40px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.homesearch{
+    display: flex;
+    align-items: center;
+}
+.homesearch li {
+    margin-right: 25px;
+}
+.Search{
+    box-shadow: rgba(0, 0, 0, 0.15) -0.05px 1.95px 0.6px;
+    width: 187px;
+    height: 20px;
+}
+/* //////////////////////////////// */
+.SALEfull{
+    width: 291px;
+background-color: white;
+padding: 12px 44px;
+margin-left: 120px;
+}
+.SALE{
+    font-size: 40px;
+}
+.off{
+    color: rgb(132, 129, 129);
+}
+.salefullbody{
+    margin-right: 20px;
+    background-image: url(images/banner.png);
+   margin-left: -90px;
+   margin-top: -21px;
+    background-repeat: no-repeat;
+
+background-size: 100% 100%;
+padding: 120px 151px;
+}
+.discover{
+    background-color: rgb(252, 122, 75);
+    color: white;
+    padding: 10px 17px;
+width: 132px;
+}
+.sale{
+    background-color: rgb(255, 226, 216);
+    padding-bottom: 32px;
+    margin-left: 90px;
+}
+/* ///////////// */
+.POPULAR{
+    font-size: 36px;
+}
+.POPULARfullbody{
+text-align: center;
+}
+.populareproduct{
+   padding: 0px 447px;
+   margin-top: -18px;
+}
+.Safa{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.Safa li {
+    margin-left: 90px;
+
+}
+.Safa li a{
+    font-size: 20px;
+}
+.Safa li a:hover{
+    color: orangered;
+}
+.sofaebody{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    padding: 50px 96px;
+    margin-top: 60px;
+
+}
+.Bly{
+    font-size: 18px;
+}
+.doler{
+    font-size: 25px;
+    color: rgb(118, 0, 0);
+
+}
+.Microfiber{
+    border: 1px solid rgb(237, 237, 237);
+    /* width: 455px; */
+}
+.popular1{
+    width: 380px;
+}
+
+/* ////////////////// */
+
+.BESTfullbody{
+    display: flex;
+    
+}
+.bestimage{
+    width: 810px;
+}
+.best{
+    font-size: 45px;
+}
+.bestbody{
+    width: 524px;
+    
+}
+.bestcolorbody{
+    background-color: rgb(249, 218, 207);
+    padding-left: 40px;
+    padding-right: 145px;
+    padding-top: 50px;
+}
+.bgwhite{
+    background-color: white;
+    color: orangered;
+    border: 1px solid orangered;
+    
+}
+.bgwhite:hover{
+    background-color: rgb(252, 122, 75);
+color: white;
+padding: 10px 17px;
+width: 132px;
+}
+.bgwhitebody{
+    display: flex;
+    justify-content: center;
+}
+.sofatop{
+    margin-top: 0px;
+}
+
+/* /////////// */
+.instra i{
+    font-size: 40px;
+    color: orangered;
+}
+.instrahead{
+    font-size: 30px;
+}
+.instrafullbody{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.instramainbody{
+    width: 400px;
+}
+.instra1{
+    width: 542px;
+}
+/* ////////////////// */
+.freedelivery{
+    width: 70px;
+}
+.Fast{
+    width: 20px;
+}
+.freefullbody{
+    display: flex;
+    justify-content: space-evenly;
+}
+.bodycream{
+    background-color: rgb(248, 230, 161);
+    margin-right: 40px;
+    padding-top: 40px;
+}
+.footericon i{
+    border: 1px solid white;
+    border-radius: 50px;
+    padding: 5px;
+    color: white;
+}
+.footerallitems{
+    display: flex;
+    justify-content: space-evenly;
+}
+.iconfullbody{
+    width: 400px;
+}
+.chaicolor{
+    color: white;
+}
+.bluebackground{
+    background-color: rgb(29, 45, 93);
+    color: darkgray;
+    margin-left: 40px;
+    margin-right: -40px;
+    padding: 40px;
+}
+.Delivery{
+    height: 75px;
+}
+
+
+
